@@ -1,3 +1,5 @@
+# 숫자 카드 케임
+
 n, m = map(int, input().split())
 
 result = 0
